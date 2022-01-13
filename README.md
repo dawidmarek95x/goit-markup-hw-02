@@ -1,5 +1,5 @@
-# goit-markup-hw-01
+# goit-markup-hw-02
 
-Zadanie domowe #1 (HTML & CSS)
+Zadanie domowe #2 (HTML & CSS)
 
-https://dawidmarek95x.github.io/goit-markup-hw-01/
+https://dawidmarek95x.github.io/goit-markup-hw-02/
