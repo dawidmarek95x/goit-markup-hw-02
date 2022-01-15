@@ -45,13 +45,9 @@ body {
   color: var(--colorAccent);
 }
 
-.header a,
-footer a {
+.header-section a,
+.footer-section a {
   text-decoration-line: none;
-}
-
-ul {
-  list-style-type: none;
 }
 
 .secondary-header {
@@ -89,7 +85,7 @@ ul {
 /* ===== END HEADER ===== */
 
 /* ===== FOOTER ===== */
-.footer {
+.footer-section {
   background-color: var(--colorBackground-dark);
 }
 
